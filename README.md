@@ -12,6 +12,22 @@ Our team tried to clone CoSchedule in just 5 days. Our group consists of the fol
 
 Javascript, HTML, CSS
 
+### <u>Deployed Link</u>
+
+
+Deployed with Netlify 
+```
+https://coschedule.netlify.app/
+ ```
+
+### <u>Run Locally</u>
+
+Clone the project
+
+```
+git clone https://github.com/abhishekmardiya/CoSchedule-Clone.git
+```
+
 ## Important Links
 <a href="https://coschedule.netlify.app/">Netlify</a>
 <br>
